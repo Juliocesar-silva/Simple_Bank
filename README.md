@@ -1,0 +1,1 @@
+In this project, i made a program similary a bank. The user can add or withdraw the balance and view it. In the moment, this program is very simple with functions and the class BANK. Howerer in the future i will add a database.
